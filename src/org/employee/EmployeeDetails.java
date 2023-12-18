@@ -15,6 +15,12 @@ public class EmployeeDetails {
 	private void empAdd() {
 		System.out.println("chennai- OMR");
 	}
+	private void empId() {
+		System.out.println("emp id: 1122");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 77827452bfc38069a16e526967fed56bfeeddb0f
 	
 	public static void main(String[] args) {
 		
