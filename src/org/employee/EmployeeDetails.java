@@ -12,6 +12,10 @@ public class EmployeeDetails {
 		System.out.println("Employee mobile: 8939278836");
 	}
 	
+	private void empAdd() {
+		System.out.println("chennai- OMR");
+	}
+	
 	public static void main(String[] args) {
 		
 		EmployeeDetails e = new EmployeeDetails();
